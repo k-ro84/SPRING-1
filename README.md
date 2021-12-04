@@ -1,0 +1,2 @@
+# SPRING-1
+El diseño de Spring.NET se basa en la versión Java de Spring Framework, que ha mostrado beneficios en el mundo real y se utiliza en miles de aplicaciones empresariales en todo el mundo. Spring .NET no es un puerto rápido de la versión de Java, sino más bien un 'puerto espiritual' basado en los siguientes patrones de arquitectura y diseño probados que no están vinculados a una plataforma en particular. 
